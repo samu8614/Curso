@@ -1,0 +1,1 @@
+-e "First days:\n    - load the data\n    - starting working in cool analysis, not yet finished" 
